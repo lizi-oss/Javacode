@@ -12,7 +12,7 @@ super的注意事项：
     String name;
     int age;
 
-    public Pet1(String nsme,int age){
+    public Pet1(String name,int age){
         this.name=name;
         this.age=age;
     }
